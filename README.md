@@ -1,4 +1,6 @@
-### 🔭 I’m currently working on Human Understanding tasks, especially Human Pose Estimation.
+### Hi there 👋
+
+- 🔭 I’m currently working on Human Understanding tasks, especially Human Pose Estimation.
 
 [![kennethwdk's github stats](https://github-readme-stats.vercel.app/api?username=kennethwdk&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&theme=default)
 
